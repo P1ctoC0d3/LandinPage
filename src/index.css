@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.perspective {
+  perspective: 1000px;
+}
+
+.book-container {
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+}
+
+.book-container:hover {
+  transform: rotateY(10deg);
+}
