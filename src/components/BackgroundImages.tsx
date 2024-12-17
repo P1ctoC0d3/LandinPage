@@ -7,14 +7,14 @@ export function BackgroundImages() {
         <img
           src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&q=80"
           alt="Background Left"
-          className="w-full h-full object-cover opacity-25"
+          className="w-full h-full object-cover"
         />
       </div>
       <div className="absolute top-0 right-0 w-1/2 h-full">
         <img
           src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80"
           alt="Background Right"
-          className="w-full h-full object-cover opacity-25"
+          className="w-full h-full object-cover"
         />
       </div>
     </div>

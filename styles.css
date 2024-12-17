@@ -1,0 +1,4 @@
+/* Ajustar el brillo de las imágenes de fondo */
+.background-image {
+    filter: brightness(1.2); /* Ajusta el valor según sea necesario */
+}

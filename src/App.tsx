@@ -34,7 +34,7 @@ export default function App() {
                   description="Artículos sobre desarrollo web, tecnología y experiencias"
                 />
                 <LinkButton
-                  href="https://github.com/tuusuario"
+                  href="https://github.com/aitorvazz"
                   title="Proyectos en GitHub"
                   description="Revisa mis contribuciones open source y proyectos personales"
                 />

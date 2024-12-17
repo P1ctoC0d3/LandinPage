@@ -35,9 +35,9 @@ export function ProfileHeader() {
       </p>
 
       <div className="flex justify-center gap-4">
-        <SocialLink href="https://about.me" icon={CircleUserRound} label="About.me" />
-        <SocialLink href="https://github.com" icon={Github} label="GitHub" />
-        <SocialLink href="https://linkedin.com" icon={Linkedin} label="LinkedIn" />
+        <SocialLink href="https://about.me/aitorvazquez" icon={CircleUserRound} label="About.me" />
+        <SocialLink href="https://github.com/aitorvazz" icon={Github} label="GitHub" />
+        <SocialLink href="https://linkedin.com/in/aitorvazquezpoza/" icon={Linkedin} label="LinkedIn" />
         <SocialLink href="mailto:tu@email.com" icon={Mail} label="Email" />
       </div>
     </div>
